@@ -1,0 +1,26 @@
+{
+	"details":{
+		"image":"Tulips.jpg",
+		"name":"Dhana",
+		"email":"sunkaridhanalakshmi2913@gmail.com",
+		"number":"9393212676",
+        "address":"visakhapatnam"
+	},
+	"career":{
+         "info":"To become a software Engineer",
+	},
+	"education":{
+		"Institute":"VIEW",
+		"Degree":"BTech",
+		"Percentage":"88",
+		"passoutyear":"2022"
+	},
+	{
+		"Institute":"Narayana",
+		"Degree":"Inter",
+		"Percentage":"96",
+		"passoutyear":"2016"
+    
+	},
+	
+}
